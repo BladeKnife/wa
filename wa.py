@@ -1,6 +1,6 @@
 import os,sys,requests,json,re,time,random
 from requests import post
-
+from time import sleep
 def rupa():
     ua={
     "Host": "wapi.ruparupa.com",
@@ -52,6 +52,7 @@ def tok():
     else:
         print ("\033[1;97mSPAM \033[90m=> \033[1;91mGAGAL")
         sys.exit("\033[1;97mLimit Gan")
+#koid
 def red():
     agent = requests.get('https://pastebin.com/raw/zkCXTGcm').text.split('\n')
     acak = random.choice(agent)
@@ -79,9 +80,8 @@ print ("""
 \033[1;97mYoutube:\033[1;92mKnifer12
 \033[90m------------------------------""")
 no = input("\033[1;97mNo Target: \033[1;92m")
-for i in range(1):
-    rupa()
 for i in range(1,3):
     tok()
-for i in range(1,2):
-    red()
+for i in range(1,3):
+    rupa()
+    sleep(300)
