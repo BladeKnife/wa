@@ -1,6 +1,6 @@
 # Spam wa version 2.0
+![Uploading 20210121_071728.jpg…]()
 
-Update dari yang sebelumnya 
 
 Cara install 
 
