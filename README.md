@@ -1,6 +1,7 @@
 # Spam wa version 2.0
 
-![Uploading 20210121_071728.jpg…]()
+![20210121_071728](https://user-images.githubusercontent.com/66865892/105256841-7319a700-5b7e-11eb-9160-28b5453a589c.jpg)
+
 
 Cara install 
 
