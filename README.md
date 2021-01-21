@@ -12,6 +12,6 @@ $git clone https://github.com/BladeKnife/wa
 
 $cd wa
 
-$pip install requirements.txt
+$pip install -r requirements.txt
 
 $python spam.py
