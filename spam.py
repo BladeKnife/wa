@@ -70,7 +70,7 @@ if __name__=="__main__":
      print()
      nomor=input(QUE+"Phone Number \033[91m: "+warna)
      nomin=nomor.replace('0','')
-     count=int(input(QUE+"Spam Count : "+warna))
+     count=int(input(QUE+"Spam Count \033[91m : "+warna))
      for i in range(count):
          wa1(nomin)
          sleep(3)
