@@ -1,4 +1,4 @@
-import os,sys,time,requests,re,json,random
+import os,sys,time,requests,json,random
 from time import sleep
 from colorama import init, Fore, Back
 B = Fore.BLUE
